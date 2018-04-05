@@ -1,0 +1,14 @@
+.App {
+  margin: 16px auto;
+  width: 50%;
+  text-align: center;
+}
+
+p{
+  padding: 0 0 0 20px;
+}
+
+input {
+  margin-top: 20px;
+  padding: 5px;
+}
